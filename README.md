@@ -72,3 +72,10 @@ a team. Testability will be also assessed.
   ]
   }
   }
+## How to set up on local machine
+- install intelliJ IDE
+- JAVA 17 and Above
+- Install Maven on System
+- clone the source code from https://github.com/jeremiahokorie/blueharvest into your IDE or local directory and open from the IDE
+- select the JDK version and build project
+
