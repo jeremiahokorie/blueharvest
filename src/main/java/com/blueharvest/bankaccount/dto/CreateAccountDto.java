@@ -8,4 +8,7 @@ import java.math.BigDecimal;
 public class CreateAccountDto {
     private Long customerId;
     private BigDecimal initialCredit;
+
+    public CreateAccountDto(Long customerId, BigDecimal initialCredit) {
+    }
 }
